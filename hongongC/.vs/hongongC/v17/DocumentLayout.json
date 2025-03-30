@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex8-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|solutionrelative:hongongC\\ex8-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex8-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|solutionrelative:hongongC\\ex8-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\exercise7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|solutionrelative:hongongC\\exercise7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex7-5,6,7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|solutionrelative:hongongC\\ex7-5,6,7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\exercise7-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|solutionrelative:hongongC\\exercise7-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3514F18-75FC-4E9C-A3BA-4E265638D8E7}|hongongC\\hongongC.vcxproj|solutionrelative:hongongC\\ex7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex8-2.c",
+              "DocumentMoniker": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex8-2.c",
+              "RelativeDocumentMoniker": "hongongC\\ex8-2.c",
+              "ToolTip": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex8-2.c",
+              "RelativeToolTip": "hongongC\\ex8-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-30T09:56:50.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex8-1.c",
+              "DocumentMoniker": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex8-1.c",
+              "RelativeDocumentMoniker": "hongongC\\ex8-1.c",
+              "ToolTip": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex8-1.c",
+              "RelativeToolTip": "hongongC\\ex8-1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-30T09:47:01.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exercise7-2.c",
+              "DocumentMoniker": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\exercise7-2.c",
+              "RelativeDocumentMoniker": "hongongC\\exercise7-2.c",
+              "ToolTip": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\exercise7-2.c",
+              "RelativeToolTip": "hongongC\\exercise7-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-30T08:34:24.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exercise7-4.c",
+              "DocumentMoniker": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\exercise7-4.c",
+              "RelativeDocumentMoniker": "hongongC\\exercise7-4.c",
+              "ToolTip": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\exercise7-4.c",
+              "RelativeToolTip": "hongongC\\exercise7-4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-30T08:34:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex7-5,6,7.c",
+              "DocumentMoniker": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex7-5,6,7.c",
+              "RelativeDocumentMoniker": "hongongC\\ex7-5,6,7.c",
+              "ToolTip": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex7-5,6,7.c",
+              "RelativeToolTip": "hongongC\\ex7-5,6,7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-30T08:19:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex7-4.c",
+              "DocumentMoniker": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex7-4.c",
+              "RelativeDocumentMoniker": "hongongC\\ex7-4.c",
+              "ToolTip": "C:\\Users\\tksk8\\OneDrive\\\u6587\u4EF6\\GitHub\\hongong\\hongongC\\hongongC\\ex7-4.c",
+              "RelativeToolTip": "hongongC\\ex7-4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-30T08:14:22.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
