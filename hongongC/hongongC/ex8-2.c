@@ -15,7 +15,7 @@ int main(void)
 	{
 		total += score[i]
 	}
-	avg = total / 5.0;
+	aveg = total / 5.0;
 
 	for (i = 0;i < 5;i++)
 	{
@@ -23,7 +23,7 @@ int main(void)
 	}
 	printf("\n");
 
-	printf("ЦђБе :%.1lf\n", avg);
+	printf("ЦђБе :%.1lf\n", aveg);
 
 	return 0;
 }
