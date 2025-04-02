@@ -13,7 +13,7 @@ int main(void)
 	}
 	for (i = 0;i < 5;i++)
 	{
-		total += score[i]
+		total += score[i];
 	}
 	aveg = total / 5.0;
 
